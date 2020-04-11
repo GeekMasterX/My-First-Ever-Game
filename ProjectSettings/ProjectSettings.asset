@@ -734,10 +734,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: e919c69e-82cf-4a8a-a71b-d5d914537491
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: My First Ever Game
+  organizationId: sudhanshubhagat101
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
