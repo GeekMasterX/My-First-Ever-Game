@@ -410,7 +410,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9511aedf61655a84a83d45b79a938e04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bounceForce: 8
+  bounceForce: 10
 --- !u!1 &383030493
 GameObject:
   m_ObjectHideFlags: 0
@@ -879,7 +879,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f46633cd525ba6747961cee7d1fb55ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 8
+  moveSpeed: 10
 --- !u!50 &1101493810
 Rigidbody2D:
   serializedVersion: 4
